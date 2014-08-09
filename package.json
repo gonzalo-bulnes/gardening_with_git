@@ -1,0 +1,31 @@
+{
+  "name": "gardening_with_git",
+  "version": "0.1.0",
+  "description": "An article series about using Git within a collaborative team of software craftspeople.",
+  "main": "index.html",
+  "dependencies": {},
+  "devDependencies": {
+    "broccoli-md": "~0.1.1",
+    "broccoli": "~0.12.3"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/gonzalo-bulnes/gardening_with_git.git"
+  },
+  "keywords": [
+    "software",
+    "craftsmanship",
+    "documentation",
+    "git",
+    "collaborative",
+    "work"
+  ],
+  "author": "Gonzalo Bulnes Guilpain <gon.bulnes@gmail.com>",
+  "license": "GNU FDL v1.3 or later",
+  "bugs": {
+    "url": "https://github.com/gonzalo-bulnes/gardening_with_git/issues"
+  }
+}
