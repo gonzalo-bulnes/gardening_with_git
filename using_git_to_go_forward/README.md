@@ -1,7 +1,7 @@
 Using Git to Go Forward
 =======================
 
-<img src="assets/reuse-243x310.png" alt="" align="right"/>
+<img src="assets/reuse-243x310.png" alt="" align="left"/>
 
 **re-use** [ˌriːˈjuːz]:
 
