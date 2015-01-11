@@ -1,3 +1,5 @@
+<img src="assets/teaser.png" alt=""/>
+
 Gardening with Git
 ==================
 
