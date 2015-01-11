@@ -4,12 +4,10 @@ Gardening with Git
 An article series about using Git within a collaborative team of
 software craftspeople.
 
-Using Git to Go Forward
------------------------
+Table of contents
+-----------------
 
-> Don't repeat what you write, don't repeat either what you do.
-
-[Read more...](using_git_to_go_forward/README.md)
+1. [Using Git to Go Forward](using_git_to_go_forward/README.md)
 
 
 
