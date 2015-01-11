@@ -4,10 +4,20 @@ Gardening with Git
 An article series about using Git within a collaborative team of
 software craftspeople.
 
+Using Git to Go Forward
+-----------------------
+
+> Don't repeat what you write, don't repeat either what you do.
+
+[Read more...](using_git_to_go_forward/README.md)
+
+
+
+
 License
 -------
 
-Copyright &copy; 2013-2014 Gonzalo Bulnes Guilpain
+Copyright &copy; 2013, 2014, 2015 Gonzalo Bulnes Guilpain
 
 Permission is granted to copy, distribute and/or modify this document under the terms
 of the GNU Free Documentation License, Version 1.3 or any later version published by
