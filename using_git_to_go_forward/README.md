@@ -1,11 +1,12 @@
 Using Git to Go Forward
 =======================
 
+<img src="assets/reuse-243x310.png" alt="" align="right" style="max-width: 30%"/>
 
+**re-use** [ˌriːˈjuːz]:
 
-> **re-use** [ˌriːˈjuːz]:
->   1. _vtr_ To use something that is considered past its usefulness, again.
->   2. _n_ The act of salvaging or in some manner returning a discarded item into something usable.
+1. _vtr_ To use something that is considered past its usefulness, again.
+2. _n_ The act of salvaging or in some manner returning a discarded item into something usable.
 
 
 License
