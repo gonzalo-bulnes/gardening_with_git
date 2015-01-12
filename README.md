@@ -8,9 +8,7 @@ Table of contents
 -----------------
 
 1. [Using Git to Go Forward](using_git_to_go_forward/README.md)
-
-
-
+2. [Context Matters](context_matters/README.md)
 
 License
 -------
