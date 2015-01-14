@@ -1,50 +1,23 @@
 Context Matters
 ===============
 
-Limitations of the tree model
------------------------------
+Summary
+-------
 
+### Limitations of the tree representation
 
+Git repositories are often represented as skinny trees. That's a compact and useful representation to visualize how branches are related, but it is error-prone and can lead to mistakes when working with branches. Unlike tree branches, Git branches do extend down to the repository initial commit. Other tree representation can be used that don't have that drawback.
 
-<img src="assets/git_repo_vs_tree.png" alt="" align="left"/>
+### Context does matter
 
-### An error-prone tree representation of Git repositories
+Because identical commits will have different consequences when applied in different contexts, a branch is defined by what makes it different from others -original commits-, but also by what it shares with them - the original commits **context**.
 
+In fact, almost all branches are created in the context of another, that's what `git checkout -b new-branch` does. When a whole branch is part of the context of another, the first is said to be _fast-forwardable_ from the other.  The **fast-forward** relation between branches is essential to ensure that commits are always applied in the adequate context, that's to say that they do what they're intended to do.
 
-- Git repositories are often represented as skinny trees
-- That's useful to visualize how branches are related
-- But that compact representation is also error-prone
-- And can lead to mistakes when working with branches
+### Context adaptation in practice
 
-<img src="assets/tree_branch_vs_git_branch.png" alt="" align="left"/>
-
-### Git branches are not tree branches
-
-
-- Git branches go far beyond tree branches because they do extend down to the repository intial commit
-
-```bash
-git log --oneline purple
-
-3af45d44 Add purple feature
-985d3ea3 ...
-...      ...
-96bb4c78 Initial commit
-```
-
-<img src="assets/repo_collection_of_branches.png" alt="" align="left"/>
-
-### All Git branches contain the initial commit
-
-
-
-<img src="assets/git_repo_as_a_large_tree.png" alt="" align="left"/>
-
-### A more accurate tree representation
-
-
-----
-
+- Updating a branch context with `git rebase`
+- Separating context adaptation from original commits with `git rebase --interactive`
 
 License
 -------
