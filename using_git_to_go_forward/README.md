@@ -1,6 +1,8 @@
 Using Git to Go Forward
 =======================
 
+<img src="assets/reuse-243x310.png" alt="" align="left"/>
+
 **re-use** [ˌriːˈjuːz]:
 
 1. _vtr_ To use something that is considered past its usefulness, again.
