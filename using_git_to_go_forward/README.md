@@ -33,7 +33,7 @@ At each of the three mentionned levels, a collection of conventional practices e
 Acknowledgements
 ----------------
 
-I can't but thank my teammates at [Acid Labs](https://github.com/acidlabs). Without their disposition to experiment, those Git conventions wouldn't be conventions at all.
+I can't but thank my teammates at [Acid Labs](https://github.com/acidlabs). Without their disposition to experiment, the Git conventions presented here wouldn't be conventions at all.
 
 License
 -------
