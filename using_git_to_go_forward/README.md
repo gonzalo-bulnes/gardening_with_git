@@ -18,11 +18,11 @@ Overview
 
 While `diff` files are often seen as a change by-product, the `patch` utility allows to use them as executable recipes to apply pre-defined changes to existing documents. The _[unified format][unidiff]_ (that `git diff` uses) can then be seen as a mean to **package changes** for further re-use.
 
-With that in mind, it becomes possible to reconsider the Git repository purpose: while its main feature seemed to be going back in time when thing went wrong, using Git with re-use in mind makes possible to avoid repeating recurrent actions, which may result in time savings and increased auditability and reliability. Hence the idea of going forward.
+With that in mind, it becomes possible to reconsider the Git repository purpose: while its main feature seemed to be going back in time when things went wrong, using Git with re-use in mind makes possible to avoid repeating recurrent actions, which may result in time savings and increased auditability and reliability. Hence the idea of going forward.
 
 Special care at three levels is required, however, for these benefits to appear. At the smaller scale, _diff_ files provide information about the **context** in which changes can be applied. Skilled developers should focus in ensuring their **readability**. _Diff_ files are not re-used by themselves.
 
-At the _commit_ level, full actions are packaged (thats to say small collections of related changes); care must be taken first in making them as **modular** as possible to open future re-use opportunities. The same car must be taken then in making committer **intentions** explicit to allow for further decisions to be made about re-use or debugging. Provided that's done, commits are susceptible to be re-used as-is.
+At the _commit_ level, full actions are packaged (thats to say small collections of related changes); care must be taken first in making them as **modular** as possible to open future re-use opportunities. The same care must be taken then in making committer **intentions** explicit to allow for further decisions to be made about re-use or debugging. Provided that's done, commits are susceptible to be re-used as-is.
 
 At a larger scale, at the _branch_ level, **versatility** is the must-have characteristic, mainly because branches re-use often goes beyond the repository scope, where context shifts are important. Each branch provides some observable **effect**: a feature or some valuable chore. It's worth noting that moving a branch within a repository (that's to say updating its context) is, in fact, a case of re-use and that optimizing for re-use is optimizing for change.
 
