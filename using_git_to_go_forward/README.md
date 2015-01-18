@@ -26,9 +26,10 @@ At the _commit_ level, full actions are packaged (thats to say small collections
 
 At a larger scale, at the _branch_ level, **versatility** is the must-have characteristic, mainly because branches re-use often goes beyond the repository scope, where context shifts are important. Each branch provides some observable **effect**: a feature or some valuable chore. It's worth noting that moving a branch within a repository (that's to say updating its context) is, in fact, a case of re-use and that optimizing for re-use is optimizing for change.
 
-At each of the three mentionned levels, a collection of conventional practices ensures the consitent and safe use of the available Git commands and a collection of how-to descriptions makes easier to sort the most recurrent difficulties out.
+At each of the three mentionned levels, a collection of conventional practices ensures the consitent and safe use of the available Git commands and a collection of [how-to files][how-to] makes easier to sort the most recurrent difficulties out.
 
   [unidiff]: https://www.gnu.org/software/diffutils/manual/html_node/Context.html
+  [how-to]: how-to
 
 Acknowledgements
 ----------------
