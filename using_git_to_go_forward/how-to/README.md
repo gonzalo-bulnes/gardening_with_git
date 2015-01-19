@@ -8,3 +8,4 @@ Table of Contents
 - Branch operations
   - [Backup a branch](backup_a_branch.md)
   - [Restore a branch from a backup](restore_a_branch_from_a_backup.md)
+  - [Update the context of a branch](update_the_context_of_a_branch.md)
