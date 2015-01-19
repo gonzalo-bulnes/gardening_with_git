@@ -5,6 +5,8 @@ You are going to modify a branch in a destructive way and want to keep a backup 
 
 _Create a new branch in the context of the one you want to backup. Give it a name that conventionally designs it as a backup branch (e.g.: `<name-of-the-branch-to-backup>-backup`)._
 
+<img src="assets/backup_a_branch.png" alt=""/>
+
 Motivation
 ----------
 

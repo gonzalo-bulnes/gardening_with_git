@@ -5,6 +5,8 @@ After modifying a branch in a irreversible way, restoring it from a backup allow
 
 _Branches are kind of tags which get updated automatically when you add commits. Restoring a branch from a backup may be seen as moving the branch name tag to the head of the backup branch. That can be done by deleting the branch, then re-creating it in the context of the backup branch._
 
+<img src="assets/restore_a_branch_from_a_backup.png" alt=""/>
+
 Mechanics
 ---------
 
