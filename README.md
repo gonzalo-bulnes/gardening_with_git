@@ -4,6 +4,13 @@ Gardening with Git
 An article series about using Git within a collaborative team of
 software craftspeople.
 
+Table of Contents
+-----------------
+
+1. The Git Conventions
+2. The Git Conventions Explained
+3. Gardening People
+
 License
 -------
 
