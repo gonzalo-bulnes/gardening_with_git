@@ -13,7 +13,7 @@ Table of Contents
     - Readability matters ([The Zen of Python][zen])
     - Explicit, readable
     - Intention
-  2. Re-usable branches
+  1. Re-usable branches
     - Descriptive branch names
     - Refactor, Red, Green, Refactor
     - How-to-grade history
@@ -22,28 +22,27 @@ Table of Contents
     - Understanding what an ugly diff does
     - Debugging merge conflicts resolution
     - Debugging non-empty merge commits
-  2. Refactorings
-3. The Mechanics Behing The Git Conventions
-  1. A closer look at the Git tool
-    - Diffs are packaged changes
-    - Commits are packaged actions
-    - Branches are packaged effects
-  2. A closer look at the collaborative dynamics
-    - Context sharing
-    - Knowledge sharing
-    - Support ([Love, internet style][love])
-  3. Using Git to support collaborative dynamics
-    - What to do, when and how a 3-scale story
-    - What: there is no precise action without intention
-    - When: actions have no effect without good timing
-    - How: context matters, the way of the samurai
-3. Gardening People
+  1. Refactorings
+3. A closer look at the Git tool
+  1. Diffs are packaged changes
+  2. Commits are packaged actions
+  3. Branches are packaged effects
+4. A closer look at the collaborative dynamics
+  1. Context sharing
+  1. Knowledge sharing
+  1. Support ([Love, internet style][love])
+5. Using Git to support collaborative dynamics
+  1. What to do, when and how a 3-scale story
+  1. What: there is no precise action without intention
+  1. When: actions have no effect without good timing
+  1. How: context matters, the way of the samurai
+6. Gardening People
   1. Growing a context to delivrer a steam of adequate programs
     - Could we be writting diffs instead of code?
     - Maintaining the ability to write diffs through context
-    - The class photo example
-  2. Beyond software
-    - Have software engineers any value in a multi-disciplinary team?
+7. Conclusion
+  1. Beyond software
+    - What are we good at that is useful in a multi-disciplinary team?
     - Identifying context and dependencies
     - Introspection ability
 
