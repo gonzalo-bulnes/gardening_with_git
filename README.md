@@ -74,15 +74,21 @@ Table of Contents
     - supporting teams are more likely to be high-performance teams than others (DOI: [10.1037/0003-066X.60.7.678][flourish])
     - Great workplace is stunnig colleagues. Do care about their needs and they'll become even better. ([Netflix Culture: Freedom and Responsibility][netflix])
     - Support is a two-way activity: make clear your intentions so others can help you
-1. Gardening People
-  1. Growing a context to delivrer a steam of adequate programs
+1. Growing a context to delivrer a stream of adequate programs
+  1. What do we do really?
+    - Clients see our products as static sets of features, but our work is never focused on producing a static set of features, it is focused instead in ensuring any new set of features can be produced in the future in an efficient manner.
+    - Why maintaing a 3D environment can be an efficient way of producing a stream of 2D products an abstract example.
+    - The additional dimensions in our case, that our clients rarely see, are: time (we'll be able to build tomorrow a solution for future problems without requiring repeating the intial investment again), people (we maintain a team of people in their best shape and mood for the task).
+  1. What gardeners do?
+    - Plants do grow by themselves. Gardners do not make the plants to grow. Instead they create and maintain an environment (the grarden) which allow existing plants to flourish and new plants to be added when desirable and flourish too.
     - Could we be writting diffs instead of code?
-    - Maintaining the ability to write diffs through context
+      * new features quickly become the context of other features
+      * Great teams produce code that's easy to change. What if that easiness was the feature, and the code was the by-product? Gardeners focus on environment, florists on plants. But bouquets do wither, and gardens flowers don't.
 1. Conclusion
   1. Beyond software
     - What are we good at that is useful in a multi-disciplinary team?
     - Identifying context and dependencies
-    - Introspection ability
+    - Introspection ability (agile teams are collaborative teams which monitor themselves)
 
   [love]: https://www.youtube.com/watch?v=Xe1TZaElTAs
   [zen]: http://legacy.python.org/dev/peps/pep-0020
