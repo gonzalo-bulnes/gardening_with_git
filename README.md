@@ -14,7 +14,7 @@ Table of Contents
     - Are modular
       * without that, the number of re-use opportunities drops
       * tip: constrain verb usage to enforce modularity (extension to the T. Pope rules)
-        - distinction between feature commits and fix and chore commits
+        - distinction between feature, fix and chore commits
         - distinction between important commits and minor commits
     - Context readability matters ([The Zen of Python][zen])
       * because you always must decide if the commit fits
@@ -74,16 +74,11 @@ Table of Contents
     - supporting teams are more likely to be high-performance teams than others (DOI: [10.1037/0003-066X.60.7.678][flourish])
     - Great workplace is stunnig colleagues. Do care about their needs and they'll become even better. ([Netflix Culture: Freedom and Responsibility][netflix])
     - Support is a two-way activity: make clear your intentions so others can help you
-5. Using Git to support collaborative dynamics
-  1. What to do, when and how a 3-scale story
-  1. What: there is no precise action without intention
-  1. When: actions have no effect without good timing
-  1. How: context matters, the way of the samurai
-6. Gardening People
+1. Gardening People
   1. Growing a context to delivrer a steam of adequate programs
     - Could we be writting diffs instead of code?
     - Maintaining the ability to write diffs through context
-7. Conclusion
+1. Conclusion
   1. Beyond software
     - What are we good at that is useful in a multi-disciplinary team?
     - Identifying context and dependencies
