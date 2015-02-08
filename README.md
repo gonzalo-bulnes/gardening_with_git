@@ -9,14 +9,27 @@ Table of Contents
 
 1. The Git Conventions
   1. Re-usable commits
+    - Commits can be re-used (`git cherry-pick`)
+    - Apply [T. Pope rules][tpope] as a starting point
     - Are modular
-    - Readability matters ([The Zen of Python][zen])
-    - Explicit, readable
-    - Intention
+      * without that, the number of re-use opportunities drops
+      * tip: constrain verb usage to enforce modularity (extension to the T. Pope rules)
+        - distinction between feature commits and fix and chore commits
+        - distinction between important commits and minor commits
+    - Context readability matters ([The Zen of Python][zen])
+      * because you always must decide if the commit fits
+    - Author's intention is explicit
+      * some commits depend on posterior fixes, re-users shouldn't forget them
+      * so others can learn from the commit
+      * so others can fix the commit (you don't fix if unsure that intention didn't match action)
   1. Re-usable branches
+    - Branches can be re-used, and their commits re-ordered  (`git rebase`, `git rebase --interactive`)
     - Descriptive branch names
-    - Refactor, Red, Green, Refactor
-    - How-to-grade history
+      * same rules as commits titles
+    - Context adaptation (refactor), [Red, Green], Refactor
+    - History as a logical step-by-step
+      * make sure the sequence of commits tells a logical story
+      * that's refactoring!
 2. The Git Conventions in Action
   1. Complicated Git is Beginner Git
     - Understanding what an ugly diff does
