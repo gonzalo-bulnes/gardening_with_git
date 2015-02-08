@@ -50,6 +50,13 @@ Table of Contents
   [love]: https://www.youtube.com/watch?v=Xe1TZaElTAs
   [zen]: http://legacy.python.org/dev/peps/pep-0020
 
+Posters
+-------
+
+- Rules to ensure commits provide intention (extension of [T. Pope rules][tpope])
+
+  [tpope]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+
 License
 -------
 
