@@ -13,7 +13,7 @@ Re-usable commits
 
 Commits can be re-used through the `git cherry-pick` command. That command applies each one of the commit diffs in the context of the current branch. Hold that thought.
 
-### Do care about context readability
+### Care about context readability
 
 Cherry-picking commits effectively requires, however, some precautions. First of all, diffs are sensible to context and cannot be applied if the current branch context differs widely from the context in which they were created. Conflicts are scary but rarely dangerous, and those rising from a single commit cherry-pick should not escape from control. Errors that go unnoticed are far worse, and are increasingly probable when contexts differ the most.
 
@@ -22,3 +22,9 @@ The context of the current branch is usually well-known and can be reviewed if n
 The second precaution becomes necessary when cherry-picking becomes a habit. You cannot afford reading each commit diffs when searching the one which does what you want to do. As soon as you write more than a few lines of code each week, you must give accurate titles to your commits if you intend to re-use them, otherwise, you simply won’t find them. [Tim Pope’s advice][tpope] is an excellent starting point to write useful commit messages, although we’ll discuss an addition to these rules later when talking about modularity. Read Tim Pope’s rules, apply them, you won’t regret.
 
   [tpope]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+
+### Care about modularity
+
+Modularity is the fact for a component to depend on as few others than possible. Modular commits perform one single action, and because of that they are much more likely to be re-used that commits that perform several actions at once. Imagine for a moment that you painted a beach house white and built a garage for it in a single commit. Even if many houses need painting, you won’t be able to re-use your commit on those which already have a garage (or don’t need any) without incurring in a wood and nails and sliding doors conflict. Since the painting didn’t depend on the garage construction, splitting both actions in separate commits would have increased their modularity and increased the number of re-use opportunities.
+
+Some actions are, indeed, much likely than others to be re-used, and some other should not be re-used without special care. Author’s intentions are the most accurate helpers we have to determine if a commit belongs to a category or another, and here is where a little addition to the T. Popes rules come in handy (see Constrained Verbs). Using a reduced set of verbs to start the commit messages allows to spot the most interesting commits when scanning the compact Git logs (`git log --oneline`). Feature commits are those whose title starts with `Add`, `Remove`, `Enable` or `Disable`. Fixes titles start with `Fix`. Feature-related actions are the most likely to be re-used and, on the opposite end of the re-usability, commits that start with `Minor ...` and `Refactor` are the less susceptible of re-use. With some practice, your brain will quickly learn to discard those uninteresting commits and focus on the others.
