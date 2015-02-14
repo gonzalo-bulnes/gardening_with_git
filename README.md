@@ -98,9 +98,11 @@ Table of Contents
 Posters
 -------
 
+- [Mindmap][mindmap] (used for presentations)
 - Rules to ensure commits provide intention (extension of [T. Pope rules][tpope])
 
   [tpope]: http://tbaggery.com/2008/04/19/a-note-about-git-commit-messages.html
+  [mindmap]: src/mindmap.svg
 
 License
 -------
