@@ -1,19 +1,25 @@
 Gardening with Git
 ==================
 
-An in-progres book about using Git within a collaborative team of software craftspeople.
+An in-progres book about using Git within a collaborative team of software craftspeople. Review it on [Leanpub][book]!
+
+  [book]: https://leanpub.com/gardening_with_git
 
 Overview
 --------
 
-_to do: project background, description of the origin and goals of the proposed Git conventions_
+This book presents a set of Git conventions that me and my team have been using since mid-2013, and which have helped us in our effort to become a better, collaborative, software development team. You can believe me, or see them at work [here][demo_network], [here][demo_commits], or [here][demo_pull_requests].
+
+  [demo_network]: https://github.com/gonzalo-bulnes/dredd-rack/network
+  [demo_commits]: https://github.com/gonzalo-bulnes/kata-toy_robot_simulator/commits/master
+  [demo_pull_requests]: https://github.com/gonzalo-bulnes/simple_token_authentication/pull/124
 
 Table of Contents
 -----------------
 
 1. **Chapter 1**
 
-  > _to do: chapter content summary_
+  > Re-using commits and branches requires to make decisions constantly. This chapter introduces some individual practices to get started using Git as a communication tool in order to simplify decision making for you and your teammates.
 
   1. Re-use (**[draft](manuscript/chapter_1.md#re-use)**)
   1. Re-usable commits (**[draft](manuscript/chapter_1.md#re-usable-commits)**)
@@ -22,7 +28,7 @@ Table of Contents
 
 2. **Chapter 2**
 
-  > _to do: chapter content summary_
+  > This chapter presents some key aspects of the _unified diff_ format, and describes some very common collaboration issues that re-usable commits do prevent. It then introduces the notion of context, and some merging conventions which simplify branch management by taking the context into account.
 
   1. Keeping commits simple to avoid collaboration deadends
     1. Understanding what an ugly diff does
@@ -34,7 +40,7 @@ Table of Contents
 
 3. **Chapter 3**
 
-  > _to do: chapter content summary_
+  > Explains how the conventions that were presented in the two previous chapters relate to each other, and how they fit the Git mecanics and tools. This is the core of the book. See also the corresponding [mindmap][mindmap].
 
   1. Diffs are packaged changes
   1. Commits are packaged actions
@@ -42,7 +48,7 @@ Table of Contents
 
 4. **Chapter 4**
 
-  > _to do: chapter content summary_
+  > Having seen how the presented conventions help you to improve your code, this chapter explains how they can improve people interactions within your team. It should help you understand the principles behind the conventions, so you can adapt them to your own context.
 
   1. Context sharing
   1. Knowledge sharing
@@ -52,13 +58,13 @@ Table of Contents
 
 5. **Chapter 5**
 
-  > _to do: chapter content summary_
+  > Finally, the last chapter takes the reflexion about context, time and refactoring a little further. The exercise consists in adopting the same point of view that lead us to consider the `diff` files as evolutions vectors to look at our role as software developers. We may be [evolutionary architects][ea], we could also well be [gardeners][book].
 
   1. Growing a context to delivrer a stream of adequate programs
   1. Could we be writting diffs instead of code?
   1. A parallel with gardeners
 
-  References: [Evolutionary architect][uservices]
+  References: [Principle-driven][ea] [evolutionary architecture][uservices]
 
   [conway]: http://www.thoughtworks.com/insights/blog/demystifying-conways-law
   [uservices]: http://samnewman.io/books/building_microservices
@@ -66,6 +72,7 @@ Table of Contents
   [zen]: http://legacy.python.org/dev/peps/pep-0020
   [flourish]: http://psycnet.apa.org/?&fa=main.doiLanding&doi=10.1037/0003-066X.60.7.678
   [netflix]: http://www.slideshare.net/reed2001/culture-1798664
+  [ea]: http://softwarearchitecturecon.com/sa2015/public/schedule/detail/39990
 
   ### More details
 
