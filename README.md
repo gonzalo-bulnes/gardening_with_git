@@ -1,7 +1,9 @@
 Gardening with Git
 ==================
 
-An in-progres book about using Git within a collaborative team of software craftspeople. Review it on [Leanpub][book]!
+[![Leanpub status](https://img.shields.io/badge/leanpub-sealth%20mode-lightgrey.svg)][book]
+
+An in-progres book about using Git within a collaborative team of software craftspeople.
 
   [book]: https://leanpub.com/gardening_with_git
 
