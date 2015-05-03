@@ -1,7 +1,7 @@
 Gardening with Git
 ==================
 
-[![Leanpub status](https://img.shields.io/badge/leanpub-sealth%20mode-lightgrey.svg)][book]
+[![Leanpub status](https://img.shields.io/badge/leanpub-unpublished-lightgrey.svg)][book]
 
 An in-progres book about using Git within a collaborative team of software craftspeople.
 
