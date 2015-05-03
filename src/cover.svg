@@ -1,0 +1,311 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="2550"
+   height="3300"
+   id="svg1878"
+   sodipodi:version="0.32"
+   inkscape:version="0.48.4 r9939"
+   version="1.0"
+   sodipodi:docname="cover.svg"
+   inkscape:export-filename="/home/gonzalo/dev/current/gardening_with_git/src/cover_color.png"
+   inkscape:export-xdpi="300"
+   inkscape:export-ydpi="300">
+  <defs
+     id="defs1880" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.19038802"
+     inkscape:cx="1386.3481"
+     inkscape:cy="1105.4043"
+     inkscape:document-units="mm"
+     inkscape:current-layer="g3805"
+     id="namedview1882"
+     width="2550px"
+     height="189mm"
+     units="px"
+     showguides="false"
+     inkscape:guide-bbox="true"
+     inkscape:window-width="1366"
+     inkscape:window-height="713"
+     inkscape:window-x="0"
+     inkscape:window-y="27"
+     showgrid="false"
+     inkscape:window-maximized="1">
+    <sodipodi:guide
+       orientation="vertical"
+       position="10.629921"
+       id="guide1887" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="2550,0"
+       id="guide1889" />
+    <sodipodi:guide
+       orientation="0,1"
+       position="0,3300"
+       id="guide1893" />
+    <sodipodi:guide
+       orientation="1,0"
+       position="1225,3300"
+       id="guide3142" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata1884">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Construction"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <image
+       transform="translate(0,2630.315)"
+       style="display:inline"
+       y="-2160.7881"
+       x="168.62991"
+       id="image3139"
+       xlink:href="file:///home/gonzalo/dev/current/gardening_with_git/src/cover_sample.png"
+       height="1268.9146"
+       width="2130.4553" />
+  </g>
+  <g
+     style="display:none"
+     transform="translate(0,2630.315)"
+     id="g3005"
+     inkscape:groupmode="layer"
+     inkscape:label="Content Solarized Monochrome"
+     sodipodi:insensitive="true">
+    <rect
+       y="-2630.3149"
+       x="0"
+       height="3300"
+       width="2550"
+       id="rect3007"
+       style="fill:#ffffff;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3009"
+       y="-1453.5054"
+       x="1128.196"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         y="-1453.5054"
+         x="1128.196"
+         id="tspan3011"
+         sodipodi:role="line">WITH</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3013"
+       y="-1125.3333"
+       x="1048.8242"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:320px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+         y="-1125.3333"
+         x="1048.8242"
+         id="tspan3015"
+         sodipodi:role="line">git</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3017"
+       y="-1625.5228"
+       x="444.50049"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:320px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Playfair Display;-inkscape-font-specification:Playfair Display Bold Italic"
+         y="-1625.5228"
+         x="444.50049"
+         id="tspan3019"
+         sodipodi:role="line">Gardening</tspan></text>
+  </g>
+  <g
+     inkscape:label="Content Solarized Monochrome Alternative"
+     inkscape:groupmode="layer"
+     id="g3013"
+     transform="translate(0,2630.315)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#ffffff;fill-opacity:1;stroke:none"
+       id="rect3015"
+       width="2550"
+       height="3300"
+       x="0"
+       y="-2630.3149" />
+    <text
+       xml:space="preserve"
+       style="font-size:72px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;letter-spacing:0px;word-spacing:0px;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;stroke:none;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+       x="1128.196"
+       y="-1453.5054"
+       id="text3018"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3020"
+         x="1128.196"
+         y="-1453.5054"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light">WITH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1048.8242"
+       y="-1125.3333"
+       id="text3022"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3024"
+         x="1048.8242"
+         y="-1125.3333"
+         style="font-size:320px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#000000;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light">git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="444.50049"
+       y="-1625.5228"
+       id="text3026"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3028"
+         x="444.50049"
+         y="-1625.5228"
+         style="font-size:320px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#000000;fill-opacity:1;font-family:Playfair Display;-inkscape-font-specification:Playfair Display Bold Italic">Gardening</tspan></text>
+  </g>
+  <g
+     inkscape:label="Content Solarized Neutral"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(0,2630.315)"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="fill:#fdf6e3;fill-opacity:1;stroke:none"
+       id="rect3168"
+       width="2550"
+       height="3300"
+       x="0"
+       y="-2630.3149" />
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1128.196"
+       y="-1453.5054"
+       id="text3158"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3160"
+         x="1128.196"
+         y="-1453.5054"
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#586e75;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Bold">WITH</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="1048.8242"
+       y="-1125.3333"
+       id="text3162"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3164"
+         x="1048.8242"
+         y="-1125.3333"
+         style="font-size:320px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#586e75;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light">git</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       x="444.50049"
+       y="-1625.5228"
+       id="text3151-0"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan3153-2"
+         x="444.50049"
+         y="-1625.5228"
+         style="font-size:320px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#586e75;fill-opacity:1;font-family:Playfair Display;-inkscape-font-specification:Playfair Display Bold Italic">Gardening</tspan></text>
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(0,2630.315)"
+     id="g3805"
+     inkscape:groupmode="layer"
+     inkscape:label="Content Solarized Color">
+    <rect
+       y="-2630.3149"
+       x="0"
+       height="3300"
+       width="2550"
+       id="rect3807"
+       style="fill:#fdf6e3;fill-opacity:1;stroke:none" />
+    <text
+       sodipodi:linespacing="125%"
+       id="text3809"
+       y="-1453.5054"
+       x="1128.196"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#586e75;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:72px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;fill:#586e75;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo;text-anchor:start;text-align:start;writing-mode:lr;line-height:125%"
+         y="-1453.5054"
+         x="1128.196"
+         id="tspan3811"
+         sodipodi:role="line">WITH</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3813"
+       y="-1125.3333"
+       x="1048.8242"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#cb4b16;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:320px;font-style:normal;font-variant:normal;font-weight:300;font-stretch:normal;text-align:start;line-height:125%;writing-mode:lr-tb;text-anchor:start;fill:#cb4b16;fill-opacity:1;font-family:Aleo;-inkscape-font-specification:Aleo Light"
+         y="-1125.3333"
+         x="1048.8242"
+         id="tspan3815"
+         sodipodi:role="line">git</tspan></text>
+    <text
+       sodipodi:linespacing="125%"
+       id="text3817"
+       y="-1625.5228"
+       x="444.50049"
+       style="font-size:32px;font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#859900;fill-opacity:1;stroke:none;font-family:Ubuntu;-inkscape-font-specification:Ubuntu"
+       xml:space="preserve"><tspan
+         style="font-size:320px;font-style:italic;font-variant:normal;font-weight:bold;font-stretch:normal;fill:#859900;fill-opacity:1;font-family:Playfair Display;-inkscape-font-specification:Playfair Display Bold Italic"
+         y="-1625.5228"
+         x="444.50049"
+         id="tspan3819"
+         sodipodi:role="line">Gardening</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Guides"
+     style="display:none"
+     sodipodi:insensitive="true">
+    <rect
+       style="opacity:0.23456792;fill:#ef2929;fill-opacity:1;stroke:none;display:inline"
+       id="rect3144"
+       width="1575"
+       height="903.53723"
+       x="443.70911"
+       y="-1940.8328"
+       transform="translate(0,2630.315)" />
+  </g>
+</svg>
